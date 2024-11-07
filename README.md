@@ -12,11 +12,14 @@ En este link se encuentran todos los videos realizados en clase, con los ejercic
 https://drive.google.com/drive/folders/1oi4C7qyre3Xa_LYcdlWdsv4eexmkl2gj
 
 En este proyecto simulamos a nuestro personaje kratos navideño el cual el servo simulara su arma o herramienta que movera cuando detecte que alguien pasa por delante, sonara una melodia navideña y sus ojos encenderan de color rojo, tambien planeabamos que su herramienta fuera un pino en el cual habra una tira de leds.
+Dentro de la carpeta tambie se encuentra el codigo fuente.
 
 ## Enlace del ejercicio practico integral
 https://drive.google.com/drive/folders/1oomL6btJnjsB-H4splchnpCMMkggVqrk
 
 Aqui se realizo un ejercicio proporcionado por el profesor en el cual teniamos que simular abrir una puerta y cuando detectara algo en el rango de la puerta esta se cerrara y marcara una alarma, ademas de encender un led.
+Dentro de la carpeta tambie se encuentra el codigo fuente.
+
 ## Cursos de python
 ## Modulo 1
 ![image](https://github.com/user-attachments/assets/ec45e034-2115-4be8-ac25-24eb88f5cb37)
